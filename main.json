@@ -1,0 +1,66 @@
+{
+  "site_name": "CJS.me.uk",
+  "availability": "Currently on contract",
+  "email": "cjs78@hotmail.co.uk",
+  "phone": {
+      "home": "01252 641982",
+      "mobile": "07809758568"
+    },
+  "cv": {
+      "text": "CV Download",
+      "link": "/cv/chris_stevens_webdev_contract_JUN18.docx"
+    },
+  "intro": {
+      "picture": "images/me.png",
+      "head": "Hello there, my name is Chris Stevens",
+      "subhead": "I'm a Professional Contractor specialising in Front End Web Development.",
+      "body_one": "I build standards compliant, cross browser, multi device responsive webpages using my key skill set of HTML5, CSS3, Javascript and Photoshop. I have <strong>19 years</strong> experience and have worked for a diverse range of business sectors and industries from Agencies to Corporate.",
+      "body_two": "I live in Fleet, Hampshire with my Wife and five children. When not developing front end masterpieces I enjoy spending time with my family and friends. I have hobbies and interests too numerous to list, depends upon when you ask me as to what im into at that moment... I find most things interesting."
+    },
+  "jobs": [
+    { 
+      "company": "Jaywing",
+      "datefrom": 082018,
+      "dateto": "present",
+      "jobtitle": "Contract Front End Web Developer",
+      "location": "Newbury, Berkshire",
+      "summary": "I am currently working with Jaywing on a new website build for a large university on the South Coast. This is not my first foray into the university sector, having been a part of the project for Sheffield Hallam University a few years back. The site is based on the Sitecore platform and uses Jaywing's bespoke front end framework called 'Atomic' which is loosely based on Foundation.",
+      "glance": {
+        "list": [
+          "MS Visual Studio 2017",
+          "MS Visual Studio Code (VSCode)",
+          "Sitecore - including component integration and customisation of the experience editor.",
+          "Terminal - GIT, Yarn Package Manager, Node, Webpack, Babel, SASS and JS Lint",
+          "CSS3 - SASS, Atomic (Foundation), Responsive Grid Mobile First Approach",
+          "Javascript - Custom Modular Vanilla JS - Similar to Require.js with some ES6",
+          "HTML5 - component based with templating via Nunjucks",
+          "Designs - working from designs provided in Adobe XD CC",
+          "Project management - Jira Tickets, Agile, Scrum, Daily Standups"
+        ],
+      "image": {
+        "alt": "Jaywing",
+        "path": "images/jaywing-screenshot.png"
+      }
+    },
+    { 
+      "company": "21Six",
+      "datefrom": 032018,
+      "dateto": 042018,
+      "jobtitle": "Contract Front End Web Developer",
+      "location": "Fair Oak, Hampshire",
+      "summary": "21Six is a full-service agency based in Fair Oak, Hampshire. Due to rapid growth, 21Six needed an experienced FE dev who could ‘hit the ground running’ to handle some urgent web development work. I worked on various projects, all subject to NDA. The work involved building a mixture of Wordpress sites and stand-alone web apps using a variety of skills and techniques.",
+      "glance": {
+        "list": [
+        "HTML5, CSS3, SASS, Bootstrap 4",
+        "Javascript, JQuery, Handlebars JS",
+        "Adobe Photoshop, Adobe XD, Sketch",
+        "Wordpress, Advanced Custom Fields, PHP, MAMP, Twig/Timber",
+        "NPM, Grunt, Webpack, GIT/Bitbucket"
+      ],
+      "image": {
+        "alt": "21Six",
+        "path": "images/21six-screenshot.jpg"
+      }
+    }
+  ]
+}
